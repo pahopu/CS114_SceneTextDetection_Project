@@ -23,7 +23,6 @@
 * **Giảng viên:** Ths. Phạm Nguyễn Trường An
 
 ## THÔNG TIN VỀ CÁC THÀNH VIÊN NHÓM
-* **Thông tin các thành viên:**
 
 | STT    | MSSV          | Họ và Tên                |Vai trò    | Github                                          | Email                   |
 | :----: |:-------------:| :-----------------------:|:---------:|:-----------------------------------------------:|:-------------------------:
