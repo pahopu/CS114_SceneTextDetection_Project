@@ -14,6 +14,7 @@
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Thông tin các thành viên](#thông-tin-về-các-thành-viên-nhóm)
+* [Mô tả bài toán](#mô-tả-bài-toán)
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Máy học - Machine Learning
@@ -23,10 +24,15 @@
 * **Giảng viên:** Ths. Phạm Nguyễn Trường An
 
 ## THÔNG TIN VỀ CÁC THÀNH VIÊN NHÓM
-
 | STT    | MSSV          | Họ và Tên                |Vai trò    | Github                                          | Email                   |
 | :----: |:-------------:| :-----------------------:|:---------:|:-----------------------------------------------:|:-------------------------:
 | 1      | 20521446      | Huỳnh Nguyễn Vân Khánh   |Trưởng nhóm|[hnvkhanh](https://github.com/hnvkhanh)          |20521446@gm.uit.edu.vn   |
 | 2      | 20520278      | Phạm Hoàng Phúc          |Thành viên |[pahopu](https://github.com/pahopu)              |20520278@gm.uit.edu.vn   |
 | 3      | 20521663      | Nguyễn Đặng Bảo Ngọc     |Thành viên |[ngocndb03](https://github.com/ngocndb03)        |20521663@gm.uit.edu.vn   |
 
+## MÔ TẢ BÀI TOÁN
+* **Tên đồ án:** Scene Text Detection
+* **Framework:** TextFuseNet
+* **Input:** 1 bức ảnh chụp mà text là thành phần có sẵn trong ảnh
+* **Output:** Tọa độ của vùng chứa text gồm có 4 điểm là 4 góc của 1 hình tứ giác, gốc tọa độ được tính từ góc trên bên trái của bức ảnh và tọa độ chỉ gồm số dương
+* **Các ngữ cảnh ứng dụng:** Ứng dụng trong các hệ thống hỗ trợ người khiếm thị và những hệ thống xe tự lái
