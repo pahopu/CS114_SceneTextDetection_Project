@@ -8,7 +8,7 @@
 <h1 align="center"><b>MÁY HỌC<br>(MACHINE LEARNING)</b></h>
 
 [![Status](https://img.shields.io/badge/status-working-brightgreen?style=flat-square)](https://github.com/pahopu/CS114.N11.KHCL_SceneTextDetection_Project)
-[![GitHub contributors](https://github.com/pahopu/CS114.N11.KHCL_SceneTextDetection_Project?style=flat-square)](https://github.com/pahopu/CS114.N11.KHCL_SceneTextDetection_Project/graphs/contributors)
+[![GitHub contributors]((https://img.shields.io/github/contributors/pahopu/CS114.N11.KHCL_SceneTextDetection_Project?style=flat-square)](https://github.com/pahopu/CS114.N11.KHCL_SceneTextDetection_Project/graphs/contributors)
 [![Status](https://img.shields.io/badge/language-python-green?style=flat-square)](https://github.com/pahopu/CS114.N11.KHCL_SceneTextDetection_Project)
 
 ## BẢNG MỤC LỤC
