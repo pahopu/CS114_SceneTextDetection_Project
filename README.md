@@ -36,3 +36,21 @@
 * **Input:** 1 bức ảnh chụp mà text là thành phần có sẵn trong ảnh
 * **Output:** Tọa độ của vùng chứa text gồm có 4 điểm là 4 góc của 1 hình tứ giác, gốc tọa độ được tính từ góc trên bên trái của bức ảnh và tọa độ chỉ gồm số dương
 * **Các ngữ cảnh ứng dụng:** Ứng dụng trong các hệ thống hỗ trợ người khiếm thị và những hệ thống xe tự lái
+
+## MÔ TẢ BỘ DỮ LIỆU
+* **Tên bộ dữ liệu:** VinText
+* **Số lượng:** 2000 ảnh
+* **Phân chia:**
+  * **Training set:** 1200 ảnh --> Loại bỏ các ảnh có Width x Height vượt quá 300000 pixels --> 384 ảnh
+  * **Validation set:** 300 ảnh
+  * **Testing set:** 500 ảnh
+* **Cách thức xây dựng:**
+  * 
+* **Cách thao tác tiền xử lý:**
+  *
+  
+## MÔ TẢ THUẬT TOÁN
+
+## ĐÁNH GIÁ
+
+## KẾT LUẬN
