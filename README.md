@@ -45,11 +45,13 @@
   * **Validation set:** 300 ảnh
   * **Testing set:** 500 ảnh
 * **Cách thức xây dựng:**
-  * 
+  Các hình ảnh trong bộ dữ liệu được tải xuống từ Internet hoặc được chụp bởi chính nhóm tác giả.
 * **Cách thao tác tiền xử lý:**
   *
   
 ## MÔ TẢ THUẬT TOÁN
+
+TextFuseNet giải quyết các vấn đề khó trong bài toán Scene Text Detection bằng cách sử dụng các phương pháp kết hợp đặc trưng (feature fusion). Không giống với các phương pháp trước đó, TextFuseNet khai thác các đặc trưng ở nhiều mức độ khác nhau (mức toàn cục, mức từ và mức chữ cái) để bổ sung thêm thông tin cho quá trình dự đoán.
 
 ## ĐÁNH GIÁ
 
