@@ -45,9 +45,10 @@
   * **Validation set:** 300 ảnh
   * **Testing set:** 500 ảnh
 * **Cách thức xây dựng:**
-  Các hình ảnh trong bộ dữ liệu được tải xuống từ Internet hoặc được chụp bởi chính nhóm tác giả.
+  * Các hình ảnh trong bộ dữ liệu được tải xuống từ Internet hoặc được chụp bởi chính nhóm tác giả.
 * **Cách thao tác tiền xử lý:**
-  *
+* **Repository chính thức của dataset:** [link](https://github.com/VinAIResearch/dict-guided)
+* **Dataset đã được giải nén:** [drive](https://drive.google.com/drive/folders/1--sjdzVcuY37ouAKISydf5aCE3DmBowM?usp=share_link)
   
 ## MÔ TẢ THUẬT TOÁN
 
