@@ -54,6 +54,16 @@
 
 TextFuseNet giải quyết các vấn đề khó trong bài toán Scene Text Detection bằng cách sử dụng các phương pháp kết hợp đặc trưng (feature fusion). Không giống với các phương pháp trước đó, TextFuseNet khai thác các đặc trưng ở nhiều mức độ khác nhau (mức toàn cục, mức từ và mức chữ cái) để bổ sung thêm thông tin cho quá trình dự đoán.
 
+TextFuseNet gồm có 5 thành phần:
+  * Feature Pyramid Network (FPN)
+  * Region Proposal Network (RPN)
+  * Nhánh Sematic Segmentation 
+  * Nhánh Mask
+  * Nhánh Detection
+
+Pipeline của TextFuseNet:
+![TextFuseNet Pipeline](Đường Dẫn "Nội dung trong thẻ Title")
+
 ## ĐÁNH GIÁ
 
 ## KẾT LUẬN
