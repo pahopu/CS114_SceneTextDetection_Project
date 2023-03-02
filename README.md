@@ -63,11 +63,11 @@ TextFuseNet gồm có 5 thành phần:
 
 ![image](https://github.com/ying09/TextFuseNet.pytorch/blob/master/TextFuseNet.jpg)
 
-Mô hình được đánh giá theo độ đo Precision và Recall.
-Trong đó, mỗi bounding box mà mô hình dự đoán được sẽ được tính là một trường hợp true positive nếu IoU giữa bounding box đó và một bounding box trong groundtruth vượt ngưỡng 50%. Mỗi trường hợp đạt ngưỡng chỉ được tính một lần, trường hợp có nhiều bounding box cùng trùng lắp với một groundtruth thì chỉ được tính là một trường hợp true positive, còn lại tính là false negative.
 
 ## ĐÁNH GIÁ
 
+Mô hình được đánh giá theo độ đo Precision và Recall.
+Trong đó, mỗi bounding box mà mô hình dự đoán được sẽ được tính là một trường hợp true positive nếu IoU giữa bounding box đó và một bounding box trong groundtruth vượt ngưỡng 50%. Mỗi trường hợp đạt ngưỡng chỉ được tính một lần, trường hợp có nhiều bounding box cùng trùng lắp với một groundtruth thì chỉ được tính là một trường hợp true positive, còn lại tính là false negative.
 
 
 ## KẾT LUẬN
