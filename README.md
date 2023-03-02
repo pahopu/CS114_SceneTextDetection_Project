@@ -37,6 +37,11 @@
 * **Output:** Tọa độ của vùng chứa text gồm có 4 điểm là 4 góc của 1 hình tứ giác, gốc tọa độ được tính từ góc trên bên trái của bức ảnh và tọa độ chỉ gồm số dương
 * **Các ngữ cảnh ứng dụng:** Ứng dụng trong các hệ thống hỗ trợ người khiếm thị và những hệ thống xe tự lái
 
+## COLAB NOTEBOOK
+* Train mô hình: [colab](https://colab.research.google.com/drive/1d8Wa1fsXedJmEkuxo7nQTqXmqu81u7XE?usp=sharing)
+* Thay đổi định dạng của file annotate và tạo pseudo-label: [colab](https://colab.research.google.com/drive/1btynHjJ9uRFz_l096jOhcCoqgKBOxKIr?usp=sharing)
+* Đánh giá mô hình: [colab](https://colab.research.google.com/drive/1qpmX6y38oZm0yOghBMdjOo585O7eB1Bp?usp=sharing)
+
 ## MÔ TẢ BỘ DỮ LIỆU
 * **Tên bộ dữ liệu:** VinText
 * **Số lượng:** 2000 ảnh
