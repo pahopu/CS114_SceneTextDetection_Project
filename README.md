@@ -61,7 +61,9 @@ TextFuseNet gồm có 5 thành phần:
   * Nhánh Mask
   * Nhánh Detection
 
-Pipeline của TextFuseNet:
+**Pipeline của TextFuseNet:**
+
+![image](https://github.com/ying09/TextFuseNet.pytorch/blob/master/TextFuseNet.jpg)
 
 
 
