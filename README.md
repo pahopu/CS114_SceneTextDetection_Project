@@ -80,7 +80,7 @@ Trong đó, mỗi bounding box mà mô hình dự đoán được sẽ được 
   * Precision: 0.892
   * Recall: 0.743
   * F1: 0.811
-  
 * Mô hình: [link](https://drive.google.com/file/d/1bFoGlytWUVzi7VlF2_kKNvaryaho542z/view?usp=sharing)
+* Kết quả dự đoán trên tập test: [drive](https://drive.google.com/drive/folders/1gDZZgt8Qx5TeveXg_Lh8oR1Mj7fkhUdF?usp=sharing)
 
 ## Thư mục Drive Đồ án cuối kỳ: [drive](https://drive.google.com/drive/folders/1GvzxT-uVkWQiIiSbFMV-Q_iTCqA5z5j1?usp=sharing)
