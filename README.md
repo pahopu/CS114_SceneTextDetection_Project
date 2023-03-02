@@ -21,7 +21,7 @@
 * [Mô tả bộ dữ liệu](#mô-tả-bộ-dữ-liệu)
 * [Mô tả thuật toán](#mô-tả-thuật-toán)
 * [Đánh giá](#đánh-giá)
-* [Kết quả](#kêt-quả)
+* [Kết quả](#kết-quả)
 
 ## [GIỚI THIỆU MÔN HỌC](#top)
 * **Tên môn học:** Máy học - Machine Learning
