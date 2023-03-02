@@ -62,7 +62,8 @@ TextFuseNet gồm có 5 thành phần:
   * Nhánh Detection
 
 Pipeline của TextFuseNet:
-![TextFuseNet Pipeline](Đường Dẫn "Nội dung trong thẻ Title")
+
+
 
 ## ĐÁNH GIÁ
 
