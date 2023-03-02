@@ -77,7 +77,10 @@ Trong đó, mỗi bounding box mà mô hình dự đoán được sẽ được 
 
 ## KẾT QUẢ
 * Mô hình đạt kết quả như sau:
-  * Precision:
-  * Recall:
-  * F1:
-* Mô hình:
+  * Precision: 0.892
+  * Recall: 0.743
+  * F1: 0.811
+  
+* Mô hình: [link](https://drive.google.com/file/d/1bFoGlytWUVzi7VlF2_kKNvaryaho542z/view?usp=sharing)
+
+## Thư mục Drive Đồ án cuối kỳ: [drive](https://drive.google.com/drive/folders/1GvzxT-uVkWQiIiSbFMV-Q_iTCqA5z5j1?usp=sharing)
