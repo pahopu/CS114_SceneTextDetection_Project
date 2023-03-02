@@ -54,12 +54,41 @@
 * **Số lượng:** 2000 ảnh
 * **Phân chia:**
   * **Training set:** 1200 ảnh --> Loại bỏ các ảnh có Width x Height vượt quá 300000 pixels --> 384 ảnh
+  * **Thống kê số lượng instance trong tập train**:
+
+    |  category  | #instances   |  category  | #instances   |  category  | #instances   |
+    |:----------:|:-------------|:----------:|:-------------|:----------:|:-------------|
+    |    text    | 6003         |     0      | 212          |     1      | 120          |
+    |     2      | 137          |     3      | 109          |     4      | 71           |
+    |     5      | 69           |     6      | 71           |     7      | 67           |
+    |     8      | 74           |     9      | 70           |     A      | 1127         |
+    |     B      | 221          |     C      | 574          |     D      | 343          |
+    |     E      | 483          |     F      | 32           |     G      | 583          |
+    |     H      | 899          |     I      | 447          |     J      | 9            |
+    |     K      | 157          |     L      | 202          |     M      | 302          |
+    |     N      | 1213         |     O      | 798          |     P      | 238          |
+    |     Q      | 62           |     R      | 197          |     S      | 176          |
+    |     T      | 781          |     U      | 559          |     V      | 160          |
+    |     W      | 32           |     X      | 60           |     Y      | 178          |
+    |     Z      | 3            |     a      | 150          |     b      | 18           |
+    |     c      | 41           |     d      | 29           |     e      | 95           |
+    |     f      | 12           |     g      | 94           |     h      | 110          |
+    |     i      | 91           |     j      | 0            |     k      | 14           |
+    |     l      | 26           |     m      | 93           |     n      | 156          |
+    |     o      | 107          |     p      | 19           |     q      | 1            |
+    |     r      | 43           |     s      | 21           |     t      | 63           |
+    |     u      | 79           |     v      | 9            |     w      | 12           |
+    |     x      | 1            |     y      | 30           |     z      | 0            |
+    |            |              |            |              |            |              |
+    |   total    | 18153        |            |              |            |              |  
+
+
   * **Validation set:** 300 ảnh
   * **Testing set:** 500 ảnh
 * **Cách thức xây dựng:** Các hình ảnh trong bộ dữ liệu được tải xuống từ Internet hoặc được chụp bởi chính nhóm tác giả.
 * **Repository chính thức của dataset:** [link](https://github.com/VinAIResearch/dict-guided)
 * **Dataset đã được giải nén:** [drive](https://drive.google.com/drive/folders/1--sjdzVcuY37ouAKISydf5aCE3DmBowM?usp=share_link)
-  
+    
 ## [MÔ TẢ THUẬT TOÁN](#top)
 
 TextFuseNet giải quyết các vấn đề khó trong bài toán Scene Text Detection bằng cách sử dụng các phương pháp kết hợp đặc trưng (feature fusion). Không giống với các phương pháp trước đó, TextFuseNet khai thác các đặc trưng ở nhiều mức độ khác nhau (mức toàn cục, mức từ và mức chữ cái) để bổ sung thêm thông tin cho quá trình dự đoán.
